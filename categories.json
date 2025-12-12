@@ -6,6 +6,9 @@
     "dining_out",
     "coffee_tea",
     "snacks",
+    "breakfast",
+    "lunch",
+    "dinner",
     "delivery_fees",
     "other"
   ],
@@ -16,6 +19,7 @@
     "parking",
     "tolls",
     "vehicle_service",
+    "Uber_lyft",
     "other"
   ],
   "housing": [
